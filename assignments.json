@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1001",
+    "course_id": "501",
+    "course_name": "CSE 310 Data Structures and Algorithms",
+    "name": "Project 3: Course Scheduler",
+    "description": "Implement a course scheduler that detects prerequisite cycles using depth-first search on a directed graph, then produces a valid topological ordering. Analyze the time complexity of your solution and justify your choice of adjacency list representation.",
+    "rubric": [
+      {"criterion": "Correct cycle detection on directed graphs", "points": 40},
+      {"criterion": "Complexity analysis with justification", "points": 20},
+      {"criterion": "Unit tests covering edge cases", "points": 20}
+    ],
+    "points_possible": 100,
+    "score": 94,
+    "url": null
+  },
+  {
+    "id": "1002",
+    "course_id": "502",
+    "course_name": "CSE 445 Distributed Software Development",
+    "name": "Lab 5: Fault-Tolerant Key-Value Store",
+    "description": "Design and implement a replicated key-value store with a leader and two followers. Handle node failure with heartbeat-based failure detection and leader election. Expose the store through a REST API and document the consistency guarantees your design provides.",
+    "rubric": [
+      {"criterion": "Replication and leader election work under node failure", "points": 50},
+      {"criterion": "REST API design and documentation", "points": 25},
+      {"criterion": "Written discussion of consistency trade-offs", "points": 25}
+    ],
+    "points_possible": 100,
+    "score": 88,
+    "url": null
+  },
+  {
+    "id": "1003",
+    "course_id": "503",
+    "course_name": "CSE 464 Software Quality Assurance",
+    "name": "Assignment 2: CI Pipeline and Test Automation",
+    "description": "Set up a continuous integration pipeline that builds a Dockerized service, runs unit and integration tests on every push, and reports coverage. Write a short report on defects the pipeline caught.",
+    "rubric": [
+      {"criterion": "Automated build and test pipeline", "points": 50},
+      {"criterion": "Docker containerization", "points": 30},
+      {"criterion": "Defect report", "points": 20}
+    ],
+    "points_possible": 100,
+    "score": 91,
+    "url": null
+  }
+]
