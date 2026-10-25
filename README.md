@@ -1,4 +1,4 @@
-# Proof Skill (working title)
+# Courseprint(working title)
 
 Maps your Canvas coursework to evidence-backed skills, matches them to live jobs,
 and explains each match by naming the real class and assignment, plus one gap to close.
